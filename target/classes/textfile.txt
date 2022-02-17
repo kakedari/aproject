@@ -1,0 +1,3 @@
+this is a test
+artifact id: aproject
+my.property: hamburger and fries
